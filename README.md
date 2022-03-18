@@ -10,5 +10,9 @@
 ## Команды git diff & git reset
 1. git reset - удаляет файл из stage
 2. git reset --hard - возвращает проект к последнему commit
-3. git diff [name_file] - показывает все изменения в файле (без name_file всего проекта)
+3. git diff [name_file] - показывает все изменения в проекте, файле)
 
+## Команды git branch & git checkout
+
+git branch [name_branch] - показывает, создаёт ветки
+git checkout [name_branch] - переходит на ветку [name_branch]
