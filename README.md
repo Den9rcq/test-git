@@ -6,6 +6,7 @@
 3. `git commit -m "комментарий"` - создаёт commit
 4. `git log / git log --oneline` - показывает commits/commit
 5. `git push [rep_link] [branch_name]` - заливает изменения на GitHub
+6. `git pull [rep_link] [branch_name]` - забирает изменения из GitHub
 
 ## Команды для удаления и отката
 1. `git reset` - удаляет файл из stage
