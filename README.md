@@ -1,5 +1,7 @@
 # Practical Git
 
+`git remote -v` - показывает [rep_link]
+
 ## Связка репозитория с GitHub
 1. `git status` - показывает изменённые файлы
 2. `git add .` - добавляет все файлы в stage
